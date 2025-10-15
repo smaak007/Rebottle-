@@ -1,0 +1,5 @@
+{
+  "name": "Rebottle",
+  "description": "A React application that simulates a recycling rewards program. Users can log in, redeem codes for points, view their wallet balance, and withdraw their earnings.",
+  "requestFramePermissions": []
+}
